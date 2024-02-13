@@ -1,3 +1,5 @@
+Vidéo du projet: https://youtu.be/4OldTJnsroE
+
 # LOG2990 - Code de base
 
 Code de base à utiliser pour démarrer le développement de votre projet.
