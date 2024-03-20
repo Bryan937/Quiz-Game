@@ -1,4 +1,5 @@
 Vidéo du projet: https://youtu.be/4OldTJnsroE
+Note: tag --> sprint3 est la version la plus à jour de l'application
 
 # LOG2990 - Code de base
 
